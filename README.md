@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @HafidLAADIMI
-- 👀 I’m interested in Coding and Programming
-- 🌱 I’m currently learning Mobile dev 
-- 💞️ I’m looking to collaborate on web and mobile dev
+- 👀 I am a Software and Industry 4.0 Engineer
 
 <!---
 HafidLAADIMI/HafidLAADIMI is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
